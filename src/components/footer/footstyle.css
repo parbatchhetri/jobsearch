@@ -1,0 +1,78 @@
+.footer{
+    padding: 80px;
+    margin-bottom: 16px;
+    background-color: #2a68ff;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    display: grid;
+    display: flex;
+    border-radius: 10px;
+    /* align-items: center; */
+    justify-content: space-around;
+    margin: auto;
+    gap: 32px;
+}
+.logodiv{
+    width: 100px;
+}
+.logo{
+    font-size: 25px;
+    color: white;
+}
+.para{
+    color: white;
+    padding-bottom: 13px;
+    opacity: 0.7;
+    line-height: 28px;
+    width: 300px;
+   
+}
+.companykk{
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 24px;
+    
+    color: white;
+}
+.grid{
+    display: grid;
+}
+.listfooter{
+    color: white;
+    opacity: 0.7;
+    line-height: 28px;
+
+}
+.listfooter:hover{
+    opacity: 1;
+}
+.contact{
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 24px;
+
+    
+    color: white;
+ 
+}
+   
+
+.email{
+    font-size: 14px;
+    color: white;
+}
+.icons{
+    display: flex;
+    gap: 16px;
+    padding-top:16px ;
+    padding-bottom: 16px;
+
+}
+.insta{
+    background-color: white;
+    padding: 8px;
+    height: 20px;
+    width: 20px;
+    border-radius: 9999px;
+    color: #2a68ff;
+
+}
